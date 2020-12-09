@@ -47,9 +47,11 @@ else:
 #help()
 #option =
 
-#what's in the help menu? Any
-#how many options do we need for the help menu 
-#how to define function with loops?
-#nested if statements?
-#look over it so far  
-#shortcuts??
+
+# Questions
+#What's in the help menu? Any thing that cinderella is going to need. 
+#How many options do we need for the help menu? As many as need, until we figure out what our help menu is.
+#How to define function with loops? similar as a for loop function, but def "variable"()
+#What are nested if statements? If under an if 
+#Any shortcuts? For now no, untill we have gotten more work done.
+

@@ -9,14 +9,10 @@ else:
 print("The animals have the slippers. You need to find the leader to get the glass slippers.")
 print(" You go to the forest to find the animal leader, and the leader tells you that they are hungry.")
 food_for_animals = input("Would you like to give them any food? (HINT: Check your inventory!)")
-def slippers():
-  slippers_for_cinderella = input("Would you like your glass slippers?")
-  if food_for_animals == yes:
-    if slippers_for_cinderella == yes:
-      print("You gave the Animal Leader bread, so he gave you the glass slippers!")
-    elif:
-      print("TRY AGAIN")  
-slippers()
+
+slippers_for_cinderella = input("Would you like your glass slippers?")
+print("You gave the Animal Leader bread, so he gave you the glass slippers!")  
+
 print("Now you have to find the dress")
 dress = input("Should you ask your stepmother? Your stepmother may be able to give you one for free!")
 if dress == yes:
@@ -42,16 +38,16 @@ else:
 #Afiya -if statement, print statements
 #Dara - If statement, print statements
 #Damani - help menu, if statement
-def help():
-  print("[1] Option 1")
-  print("[2] Option 2")
-  print("[0] Exit the program.")
+# def help():
+  #print("[1] Option 1")
+  #print("[2] Option 2")
+  #print("[0] Exit the program.")
   
 
-help()
-option =
+#help()
+#option =
 
-#what's in the help menu?
+#what's in the help menu? Any
 #how many options do we need for the help menu 
 #how to define function with loops?
 #nested if statements?

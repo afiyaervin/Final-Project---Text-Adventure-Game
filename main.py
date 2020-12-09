@@ -2,7 +2,7 @@ print("Cinderella's Adventure")
 print("Welcome to  Cinderella's Adventure!")
 print("Type out 'help' if you ever need to access the help menu") 
 user_input = input("There is a ball tonight. Do you want to go?")
-if user == yes:
+if user == "yes":
   print("You need to get glass slippers, a beautiful dress, and a carriage in time for the Ball tonight! In your inventory you have bread and a wand.")
 else:
   print("GAME OVER")

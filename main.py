@@ -85,12 +85,6 @@ if wand == "yes":
 else:
   print("You did not make it to the Ball in time. Game over.") 
 
-
-if wand = "yes"
-#if she chooses the dress, it becomes more beautiful 
-#if she chooses the shoes, they become shinier
-#continue asking till she picks the pumpkin 
-#pumpkin turns into a carraige 
 print("Have fun at the ball!")
 print("Help Menu: Press 'I' for inventory check, press 'b' for go back")
 #Afiya -if statement, print statements

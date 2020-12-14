@@ -71,7 +71,7 @@ else:
   print("Congratulations! You have a beautiful dress for the ball tonight!")
 print("Alert! Time is running out! You need to get to the Ball NOW!") 
 wand = input("would you like to select the wand?") 
-if wand == yes:
+if wand == "yes":
   magic_choice = input("What would you like to use the wand on? The pumpkin, the dress, or the shoes?")
   if magic_choice == pumpkin:
     print("You turned the pumpkin into a carraige. Have fun at the ball!")
@@ -85,13 +85,14 @@ if wand == yes:
 else:
   print("You did not make it to the Ball in time. Game over.") 
 
-#if she chooses pumpkin, it turns into a carraige. 
+
+if wand = "yes"
 #if she chooses the dress, it becomes more beautiful 
 #if she chooses the shoes, they become shinier
 #continue asking till she picks the pumpkin 
 #pumpkin turns into a carraige 
-#print('Have fun at the ball!')
-#(Help Menu: Press 'I' for inventory check, press 'b' for go back, )
+print("Have fun at the ball!")
+print("Help Menu: Press 'I' for inventory check, press 'b' for go back")
 #Afiya -if statement, print statements
 #Dara - If statement, print statements
 #Damani - help menu, if statement
@@ -112,4 +113,3 @@ else:
 #What are nested if statements? If under an if 
 #Any shortcuts? For now no, untill we have gotten more work done.
 
-yes
